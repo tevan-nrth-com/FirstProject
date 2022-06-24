@@ -1,0 +1,33 @@
+.container{
+  
+  padding: 1rem;
+  background-color:white;
+  border: 2px solid cornsilk;
+  text-align: center;
+  max-width: 380px;
+  margin: auto;
+  border-radius: 10px;
+}
+body{
+  background-color: rgb(121, 109, 109);
+}
+.wrapper{
+  margin: 80px;
+
+}
+.form{
+  padding: 15px 40px 50px;
+  border: 1px solid #e5e5e5;
+  border-radius: 10px;
+}
+.form input[type="text"], .form input[type="email"], .form input[type="password"] {
+  margin-bottom: 20px;
+} 
+body{
+  background-image: url(https://media.istockphoto.com/photos/abstract-futuristic-background-with-a-pedestal-picture-id1311473275?b=1&k=20&m=1311473275&s=170667a&w=0&h=TQrpH65THptzwZHrMLx6Z5ItaG3aG2rCIYNt8l59NQk=);
+}
+
+
+.form { margin-top: 15px;
+   width:50% }
+.logo { width: 300px; }
